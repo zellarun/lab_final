@@ -13,7 +13,7 @@ module test();
 
     // Might need to be .DIVIDE_BY(2) based
     // on your implementation
-    top #(.DIVIDE_BY(1)) uut(
+    top #(.DIVIDE_BY(2)) uut(
         .sw(sw),
         .clk(clk),
         .btnC(btnC),

@@ -23,4 +23,3 @@ integer counter = 0;
     end
 
 endmodule
-
